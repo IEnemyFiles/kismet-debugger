@@ -5,7 +5,7 @@ Proof of concept kismet debugger for debugging blueprints running in release bui
 
 ```bash
 # clone recursively
-git clone https://github.com/trumank/kismet-debugger.git --recursive
+git clone https://github.com/IEnemyFiles/kismet-debugger.git --recursive
 cd kismet-debugger
 
 # build with cmake & ninja
